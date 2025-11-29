@@ -1,7 +1,6 @@
 # Operation Kake: Illegal Gambling Websites Repository (Philippines)
 
-**Operation Kake** (from the Japanese word *賭け*, meaning **“betting”**) is an initiative under the  
-**DWK Threat Monitoring Center**, dedicated to identifying, documenting, and monitoring illegal and unregulated online gambling websites operating in the Philippines.
+**Operation Kake** (from the Japanese word *賭け*, meaning **“betting”**) is an initiative under the **DWK Threat Monitoring Center**, dedicated to identifying, documenting, and monitoring illegal and unregulated online gambling websites operating in the Philippines.
 
 This repository serves as an open resource for:
 - Researchers & OSINT analysts  
